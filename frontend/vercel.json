@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/(.*)",
-      "destination": "https://int20h-bm85.onrender.com/$1"
+      "destination": "https://int20h-bm85.onrender.com/api/$1"
     },
     {
       "source": "/(.*)",
