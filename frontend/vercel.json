@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/(.*)",
+      "destination": "https://int20h-bm85.onrender.com/"
+    }
+  ]
+}
